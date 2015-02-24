@@ -377,11 +377,11 @@ biome:
    paneltitle: "Select A Biome"
    
 expel:
-   notonisland: "Player is not trespassing on your island!"
-   success: "You expelled [name]!"
-   expelled: "You were expelled from that island!"
-   fail: "[name] cannot be expelled!"
-   notyourself: "You cannot expel yourself!"
+   notonisland: "Mängija ei ole sinu saarel."
+   success: "Sa viskasid oma saarelt välja [name]!"
+   expelled: "Sind visati saarelt välja!"
+   fail: "[name] Ei saa välja visata."
+   notyourself: "Tobuke, sa ei saa iseennast välja visata."
 
 moblimits:
    error: "Island breeding limit of [number] reached!"
@@ -394,7 +394,7 @@ coop:
    madeyoucoopy: "[name] made you a coop player until you log out or they expel you."
    onyourteam: "Player is already on your team!"
    invited: "[name] made [player] a coop player!"
-   useexpel: "Use expel to remove."
+   useexpel: "Kasute expel'i,et eemaldada mängijaid oma saarelt.."
 
 lock:
    islandlocked: "Saar on lukustatud külalistele"
