@@ -124,7 +124,7 @@ island:
    donate: "SkyBlocki õpetust ja lisa infot näed meie foorumis.Klikka teksti peale,et minna sinna."
    url: "http://stonemain.boards.net/"
 
-   teleport: "Teleporteerumine sinu saarele. (/island help lisainfoks)"
+   teleport: "&aTeleporteerumine sinu saarele. (/island help lisainfoks)"
    cannotTeleport: "Sa ei saa teleporteeruda kui kukud!"
    new: "Teen uue saare sinule..."
    errorCouldNotCreateIsland: "Ei saanud sinu saart genereerida.Palun kontakteeru juhtkonnaga."
@@ -143,9 +143,9 @@ island:
 
    #/island help
    #/island
-   helpIsland: "start an island, or teleport to your island."
-   helpTeleport: "teleport to your island."
-   helpIslandSpawn: "go to spawn."
+   helpIsland: "Alusta oma saar, või teleporteeru oma saarele."
+   helpTeleport: "Teleporteeru oma saarele."
+   helpIslandSpawn: "Mine spawni."
    helpControlPanel: "open the island GUI."
    #/island restart
    helpRestart: "restart your island and remove the old one."
