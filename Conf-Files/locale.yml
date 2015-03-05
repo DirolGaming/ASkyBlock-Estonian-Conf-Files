@@ -316,7 +316,7 @@ confirm:
 
 #delete
 delete:
-   removing: "Removing [name]'s island."
+   removing: "Eemaldan mängija [name] saare."
 
 #register
 register:
