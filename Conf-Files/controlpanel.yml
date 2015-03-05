@@ -1,58 +1,58 @@
-# Control panel file
-# For colors in panel name use &. Note client must restart if changes made as it caches inventory.
-# [island] refers to the island command, e.g., /island
-# material format is MATERIAL:DURABILITY where DURABILITY is optional
+# Kontrollpaneeli fail
+# Kui sa tahad värve lisada, vaata värvide koode: http://bit.ly/1nLEInU
+# [island] viitab islandi käsule, nt. /island
+# materjali vorming on  MATERJAL:KESTUS. Kestust ei pea sättima
 
 default:
   panelname: '&1Käsklused'
   buttons:
     0:
       material: GRASS
-      description: Mine oma saarele
+      description: 'Mine oma saarele'
       command: '[island] go'
       nextsection: ''
     1:
       material: LAVA_BUCKET
-      description: Ava minishop
+      description: 'Ava minishop'
       command: '[island] ms'
       nextsection: ''
     2:
       material: SKULL_ITEM
-      description: Tiimi liikmete nimekiri
+      description: 'Tiimi liikmete nimekiri'
       command: '[island] team'
       nextsection:
     3:
       material: BED
-      description: Säti oma kodu siia
+      description: 'Säti oma kodu siia'
       command: '[island] sethome'
       nextsection:
     4:
       material: ACACIA_STAIRS
-      description: Saare level
+      description: 'Saare level'
       command: '[island] level'
       nextsection:
     5:
       material: BOOK
-      description: TOP 10 saart
+      description: 'TOP 10 saart'
       command: '[island] top'
       nextsection:
     6:
       material: SIGN
-      description: Saadaval olevad warpid
+      description: 'Saadaval olevad warpid'
       command: '[island] warps'
       nextsection:
     7:
       material: BEDROCK
-      description: Mine maailma spawni
+      description: 'Mine maailma spawni'
       command: '[island] spawn'
       nextsection:
     8:
       material: SAPLING
-      description: Vaheta saare bioomi
+      description: 'Vaheta saare bioomi'
       command: '[island] biomes'
       nextsection: ''
     9:
       material: ENCHANTMENT_TABLE
-      description: Väljakutsed
+      description: 'Väljakutsed'
       command: 'asc'
       nextsection: ''
