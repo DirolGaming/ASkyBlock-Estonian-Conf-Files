@@ -108,7 +108,7 @@ challenges:
    errorItemsNotThere: "All required items must be close to you on your island!"
    errorIslandLevel: "Your island must be level [level] to complete this challenge!"
    guititle: "aSkyBlock Challenges"
-   erroryouaremissing: "You are missing"
+   erroryouaremissing: "Sul on puudu"
    errorRewardProblem: "There was a problem giving your reward. Ask Admin to check log!"
    completedtimes: "Completed [donetimes] out of [maxtimes]"
    maxreached: "Max reached [donetimes] out of [maxtimes]"
