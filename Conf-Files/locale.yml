@@ -132,7 +132,7 @@ island:
    #/island reset
    resetOnlyOwner: "Ainult saare omanik võib saarele restardi teha.Lahku siit saarelt,et teha enda saar (/island leave)."
    resetMustRemovePlayers: "Sa pead eemaldama kõik inimesed saarel,et teha restart (/island kick <mängija>). Et näha oma saare liikmete nimekirja, tee /island team."
-   resetPleaseWait: "Palun oota,genereerin saart."
+   resetPleaseWait: "Palun oota, genereerin saart."
    #Cool down warning - [time] is number of seconds left
    resetWait: "Sa pead ootama [time] sekundit,et seda uuesti teha."
    #Confirm
@@ -146,20 +146,20 @@ island:
    helpIsland: "Alusta oma saar, või teleporteeru oma saarele."
    helpTeleport: "Teleporteeru oma saarele."
    helpIslandSpawn: "Mine spawni."
-   helpControlPanel: "open the island GUI."
+   helpControlPanel: "Ava oma saare GUI"
    #/island restart
-   helpRestart: "restart your island and remove the old one."
-   islandDeletedLifeboats: "Island deleted! Head to the lifeboats!"
+   helpRestart: "Alusta oma saar nullist, ning kustuta vana saar."
+   islandDeletedLifeboats: "Saar kustutatud! Hüppa paatide peale!"
    #/island sethome
-   helpSetHome: "set your teleport point for /island."
+   helpSetHome: "Säti oma teleporteerumis punkt kui teed /island."
    #/island level
-   helpLevel: "calculate your island level"
+   helpLevel: "Arvuta oma saare level"
    #/island level <player>
-   helpLevelPlayer: "see another player's island level."
+   helpLevelPlayer: "Näe teise mängija saare levelit."
    #/island top:
-   helpTop: "see the top ranked islands."
+   helpTop: "Näe parimaid saari."
    #/island warps:
-   helpWarps: "Lists all available welcome-sign warps."
+   helpWarps: "Kõik vabad olevad lõimud."
    #/island warp <player>
    helpWarp: "Warp to <player>'s welcome sign."
    #/island team
